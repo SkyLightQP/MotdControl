@@ -1,0 +1,7 @@
+name: MotdControl
+main: kr.kgaons.motdcontrol.Main
+version: 1.0
+
+commands:
+  motd:
+    description: MOTD 설정
